@@ -128,4 +128,8 @@ and removal from the program.
 ---
 
 *AgriData Togo — Building data infrastructure for West African agriculture.*
+<<<<<<< HEAD
 *justinkelem708-ops.github.io/agridata-togo*
+=======
+*justinkelem708-ops.github.io/agridata-togo*
+>>>>>>> 933b43290afad74348ffa8647ed390ed99bc948e
