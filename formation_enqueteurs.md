@@ -1,135 +1,111 @@
-# AgriData Togo — Field Collector Training Protocol
+# AgriData Togo — Protocole de formation des enquêteurs terrain
 
-**Version 1.0 — August 2026**
+**Version 1.0 — Septembre 2026**
 **Contact : agridataresearch@gmail.com**
 
 ---
 
-## Welcome
+## Bienvenue
 
-You have been selected as a certified field data collector for AgriData Togo,
-an independent AI research initiative building the first real-time agricultural
-price intelligence system in Togo.
+Vous avez été sélectionné(e) comme enquêteur(trice) certifié(e) du projet AgriData Togo — une initiative de recherche indépendante qui construit le premier système d'intelligence artificielle de prédiction des prix agricoles en temps réel au Togo.
 
-Your role is critical. The quality of our predictions depends entirely
-on the accuracy and honesty of your data collection.
+Votre rôle est déterminant. La qualité de nos prédictions dépend entièrement de la précision et de l'honnêteté de vos observations terrain.
 
 ---
 
-## Your Mission
+## Votre mission
 
-Visit your local market on designated market days and record :
-- Current prices for target commodities
-- Available quantities
-- Seller and buyer profiles
-- Storage and conservation conditions
+Visiter votre marché local lors des jours de marché désignés et enregistrer :
+- Les prix pratiqués pour les produits cibles
+- Les quantités disponibles estimées
+- Les profils des vendeurs observés
+- Les conditions de stockage et de conservation
 
-**Target commodities : Maize, Soybean, Sesame, Sorghum, Cowpea**
-
----
-
-## Step-by-Step Collection Protocol
-
-### Step 1 : Arrive at the market
-- Go during peak trading hours (typically 7AM-12PM)
-- Identify at least 3 different sellers per commodity
-
-### Step 2 : Observe before asking
-- Note the general market activity (low / normal / high)
-- Note weather conditions
-- Estimate available quantities visually
-
-### Step 3 : Record prices
-- Ask for the seller's price naturally ("combien le kilo ?")
-- If a transaction occurs, note the final agreed price
-- Record both seller price and final transaction price
-
-### Step 4 : Submit via Google Forms
-- Open the collection form immediately after observation
-- Submit within 2 hours of collection
-- Never reconstruct data from memory the next day
+**Produits cibles : Maïs, Soja, Sésame, Sorgho, Niébé**
 
 ---
 
-## Data Quality Rules
+## Protocole de collecte — étape par étape
 
-**Rule 1 : Never estimate. Only record what you observe directly.**
+### Étape 1 : Arrivée sur le marché
+- Se rendre pendant les heures de pointe (généralement 7h-12h)
+- Identifier au moins 3 vendeurs différents par produit
 
-**Rule 2 : If unsure, write "unknown". Never invent a value.**
+### Étape 2 : Observer avant d'interroger
+- Évaluer l'activité générale du marché (faible / normale / élevée)
+- Noter les conditions météo
+- Estimer visuellement les quantités disponibles
 
-**Rule 3 : One form submission per commodity per seller.**
+### Étape 3 : Enregistrer les prix
+- Demander le prix vendeur naturellement ("combien le kilo ?")
+- Si une transaction a lieu, noter le prix final accepté
+- Enregistrer les deux : prix demandé ET prix final de transaction
 
-**Rule 4 : Submit the same day. Never the day after.**
-
-**Rule 5 : If the market is closed or inactive, submit a "no market" report.**
-
----
-
-## Validation System
-
-All submitted data passes through an automated consistency algorithm.
-
-Flagged data (statistical outliers, duplicates, impossible values)
-will be reviewed and may be rejected.
-
-Your certification score is based on :
-- Number of validated observations
-- Data consistency rate
-- Submission timeliness
+### Étape 4 : Soumettre via Google Forms
+- Ouvrir le formulaire de collecte immédiatement après observation
+- Soumettre dans les 2 heures qui suivent la collecte
+- Ne jamais reconstituer des données de mémoire le lendemain
 
 ---
 
-## Compensation
+## Règles de qualité des données
 
-Compensation is based on validated observations only.
+**Règle 1 : Ne jamais estimer. Enregistrer uniquement ce que vous observez directement.**
 
-| Validated observations | Monthly compensation |
-|------------------------|---------------------|
-| 10 - 20 | Certificate only |
-| 21 - 40 | Certificate + 2,500 FCFA |
-| 41 - 60 | Certificate + 5,000 FCFA |
-| 60+ | Certificate + 10,000 FCFA |
+**Règle 2 : En cas de doute, écrire "inconnu". Ne jamais inventer une valeur.**
 
-Payment is processed at end of each month via Mobile Money.
+**Règle 3 : Une soumission par produit par vendeur.**
 
----
+**Règle 4 : Soumettre le jour même. Jamais le lendemain.**
 
-## Your Certification
-
-Upon successful completion of the program, you will receive :
-
-- Official Certificate of Participation (AgriData Togo)
-- Reference letter from the Scientific Coordinator
-- Mention in the published research dataset
-- Priority consideration for future paid positions
+**Règle 5 : Si le marché est fermé ou inactif, soumettre un rapport "marché absent".**
 
 ---
 
-## Contact and Support
+## Système de validation
 
-For any question, problem, or report :
+Toutes les données soumises passent par un algorithme automatique de cohérence.
+
+Les données signalées (valeurs aberrantes statistiques, doublons, valeurs impossibles) seront examinées et peuvent être rejetées.
+
+Votre score de certification est basé sur :
+- Le nombre d'observations validées
+- Le taux de cohérence des données
+- La ponctualité des soumissions
+
+---
+
+## Votre certification
+
+À l'issue du programme, vous recevrez :
+
+- **Certificat officiel de participation AgriData Togo** (vérifiable en ligne via QR code)
+- **Lettre de référence** du Coordinateur Scientifique
+- **Mention dans le dataset de recherche publié** (Hugging Face — accès international)
+- **Priorité de recrutement** pour les phases futures rémunérées du projet
+
+---
+
+## Contact et support
+
+Pour toute question, problème ou signalement :
 
 **Email :** agridataresearch@gmail.com
-**WhatsApp Group :** [link to be shared upon onboarding]
+**Groupe WhatsApp :** lien communiqué lors de l'intégration
 
 ---
 
-## Code of Conduct
+## Code de conduite
 
-By participating in this program, you commit to :
-- Collecting data with absolute integrity
-- Never falsifying or estimating values
-- Respecting the confidentiality of seller information
-- Representing AgriData Togo professionally in the field
+En participant à ce programme, vous vous engagez à :
+- Collecter les données avec une intégrité absolue
+- Ne jamais falsifier ni estimer des valeurs
+- Respecter la confidentialité des informations des vendeurs
+- Représenter AgriData Togo de manière professionnelle sur le terrain
 
-Any proven falsification results in immediate disqualification
-and removal from the program.
+Toute falsification avérée entraîne une disqualification immédiate et le retrait du programme.
 
 ---
 
-*AgriData Togo — Building data infrastructure for West African agriculture.*
-<<<<<<< HEAD
+*AgriData Togo — Construire l'infrastructure de données pour l'agriculture ouest-africaine.*
 *justinkelem708-ops.github.io/agridata-togo*
-=======
-*justinkelem708-ops.github.io/agridata-togo*
->>>>>>> 933b43290afad74348ffa8647ed390ed99bc948e
